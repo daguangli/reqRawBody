@@ -1,4 +1,4 @@
-const debug = require('debug')('debug:rawbody')
+const debug = require('debug')('rawbody')
 module.exports = function (req, res, next) {
   let body = [];
   req.on('data', chunk => {

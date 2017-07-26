@@ -1,7 +1,6 @@
 {
   "name": "rawbody",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,14 @@
   "license": "ISC",
   "dependencies": {
     "debug": "^2.6.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daguangli/reqRawBody.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daguangli/reqRawBody/issues"
+  },
+  "homepage": "https://github.com/daguangli/reqRawBody#readme",
+  "description": ""
 }
